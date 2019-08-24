@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\hp\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hp\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Super Sect.1350995296.00" t="ExcludeRecursive" />
+    <e p="E:\Unity项目\超级宗门\Super Sect" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="Alchemy" t="Include">
+          <e p="AlchemyUIManager.cs" t="Include" />
+        </e>
+        <e p="Date" t="Include">
+          <e p="Alchemy" t="Include">
+            <e p="AlchemyRPDate.cs" t="Include" />
+            <e p="AlchemyRPDateManager.cs" t="Include" />
+            <e p="AlchemyRPType.cs" t="Include" />
+          </e>
+          <e p="Disciple" t="Include">
+            <e p="DiscipleDate_Common.cs" t="Include" />
+            <e p="DiscipleDateManager.cs" t="Include" />
+            <e p="DiscipleInheritDate.cs" t="Include" />
+          </e>
+          <e p="Equipment" t="Include">
+            <e p="EquipmentDate_Common.cs" t="Include" />
+            <e p="EquipmentDate_God.cs" t="Include" />
+            <e p="EquipmentDateManager.cs" t="Include" />
+            <e p="EquipmentType.cs" t="Include" />
+          </e>
+          <e p="Field" t="Include">
+            <e p="FieldDate.cs" t="Include" />
+            <e p="FieldDateManager.cs" t="Include" />
+          </e>
+          <e p="GameDate.cs" t="Include" />
+          <e p="LoadDate.cs" t="Include" />
+          <e p="Material" t="Include">
+            <e p="MaterialControl.cs" t="Include" />
+            <e p="MaterialDate.cs" t="Include" />
+            <e p="MaterialDateManager.cs" t="Include" />
+            <e p="MaterialType.cs" t="Include" />
+          </e>
+          <e p="Prop" t="Include">
+            <e p="PropDate.cs" t="Include" />
+            <e p="PropDateManager.cs" t="Include" />
+            <e p="PropType.cs" t="Include" />
+          </e>
+          <e p="Refiner" t="Include">
+            <e p="RefinerRPDate.cs" t="Include" />
+            <e p="RefinerRPDateManager.cs" t="Include" />
+            <e p="RefinerRPType.cs" t="Include" />
+          </e>
+          <e p="SaveDate.cs" t="Include" />
+          <e p="Trade" t="Include">
+            <e p="TradeRPDate.cs" t="Include" />
+          </e>
+          <e p="Train" t="Include">
+            <e p="ArrayRPDate.cs" t="Include" />
+            <e p="ArrayRPDateManager.cs" t="Include" />
+            <e p="ArrayRPType.cs" t="Include" />
+            <e p="FightRPDate.cs" t="Include" />
+            <e p="FightRPDateManager.cs" t="Include" />
+            <e p="FightRPType.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Field" t="Include">
+          <e p="FieldUIManager.cs" t="Include" />
+          <e p="PlantControl.cs" t="Include" />
+          <e p="PlantSeedsChoice.cs" t="Include" />
+          <e p="PlantWorkerChoice.cs" t="Include" />
+          <e p="SeeField.cs" t="Include" />
+        </e>
+        <e p="MainMenu" t="Include">
+          <e p="MainMenuUIManager.cs" t="Include" />
+        </e>
+        <e p="Refiner" t="Include">
+          <e p="RefinerUIManager.cs" t="Include" />
+        </e>
+        <e p="Test" t="Include">
+          <e p="Test.cs" t="Include" />
+        </e>
+        <e p="TouchControl.cs" t="Include" />
+        <e p="Trade" t="Include">
+          <e p="TradeUIMangaer.cs" t="Include" />
+        </e>
+        <e p="Training" t="Include">
+          <e p="TrainingUIManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Thrid" t="Include">
+        <e p="Demigiant" t="Include">
+          <e p="DemiLib" t="Include">
+            <e p="Core" t="Include">
+              <e p="DemiLib.xml" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DemiEditor.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="DOTween" t="Include">
+            <e p="DOTween43.xml" t="Include" />
+            <e p="DOTween46.xml" t="Include" />
+            <e p="DOTween50.xml" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="DOTweenPro" t="Include">
+            <e p="DOTweenAnimation.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DOTweenAnimationInspector.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="readme_DOTweenPro.txt" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Super Sect.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
